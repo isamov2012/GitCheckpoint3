@@ -1,0 +1,9 @@
+1. View the history of the repository
+git log
+
+2. If there are outstanding commits to do
+git status
+git diff
+
+3. Start a new repository
+git init
